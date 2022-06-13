@@ -1,0 +1,30 @@
+body {
+    background: #e8e7de;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+  }
+  .board {
+      width: 400px;
+      height: 400px;
+      margin: auto;
+      border: 10px solid green;
+      border-radius: 4px;
+  background: transparent;
+  box-shadow:  5px 5px 8px #bebdb6,
+               -5px -5px 8px #ffffff;
+  }
+  .black {
+      float: left;
+      width: 80px;
+      height: 80px;
+      background-color: black;
+        
+      
+  }
+  .white {
+      float: left;
+      width: 80px;
+      height: 80px;
+      background-color: white;
+      
+  }
